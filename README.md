@@ -49,7 +49,7 @@ You can find all the documentation of this package on this link : [Github Projec
 
 # Changelog
 
-Latest version v0.0.0.
+Latest version v1.0.0.
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
